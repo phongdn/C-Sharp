@@ -1,0 +1,12 @@
+C:\Users\Phong Nguyen\Desktop\MulitList_Starter\MulitList_Starter\bin\Debug\MulitList_Starter.exe.config
+C:\Users\Phong Nguyen\Desktop\MulitList_Starter\MulitList_Starter\obj\Debug\MulitList_Starter.csprojResolveAssemblyReference.cache
+C:\Users\Phong Nguyen\Desktop\MulitList_Starter\MulitList_Starter\bin\Debug\MulitList_Starter.exe
+C:\Users\Phong Nguyen\Desktop\MulitList_Starter\MulitList_Starter\bin\Debug\MulitList_Starter.pdb
+C:\Users\Phong Nguyen\Desktop\MulitList_Starter\MulitList_Starter\obj\Debug\MulitList_Starter.exe
+C:\Users\Phong Nguyen\Desktop\MulitList_Starter\MulitList_Starter\obj\Debug\MulitList_Starter.pdb
+C:\Users\Phong Nguyen\Desktop\Assignment 3\MulitList_Starter\bin\Debug\MulitList_Starter.exe.config
+C:\Users\Phong Nguyen\Desktop\Assignment 3\MulitList_Starter\obj\Debug\MulitList_Starter.exe
+C:\Users\Phong Nguyen\Desktop\Assignment 3\MulitList_Starter\obj\Debug\MulitList_Starter.pdb
+C:\Users\Phong Nguyen\Desktop\Assignment 3\MulitList_Starter\bin\Debug\MulitList_Starter.exe
+C:\Users\Phong Nguyen\Desktop\Assignment 3\MulitList_Starter\bin\Debug\MulitList_Starter.pdb
+C:\Users\Phong Nguyen\Desktop\Assignment 3\MulitList_Starter\obj\Debug\MulitList_Starter.csprojResolveAssemblyReference.cache
