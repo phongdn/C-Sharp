@@ -1,0 +1,20 @@
+C:\Users\StudentLocal\Desktop\Starter_Project\MarsLander\bin\Debug\MarsLander.exe
+C:\Users\StudentLocal\Desktop\Starter_Project\MarsLander\bin\Debug\MarsLander.pdb
+C:\Users\StudentLocal\Desktop\Starter_Project\MarsLander\obj\x86\Debug\MarsLander.csprojResolveAssemblyReference.cache
+C:\Users\StudentLocal\Desktop\Starter_Project\MarsLander\obj\x86\Debug\MarsLander.exe
+C:\Users\StudentLocal\Desktop\Starter_Project\MarsLander\obj\x86\Debug\MarsLander.pdb
+C:\Users\Phong Nguyen\Desktop\BIT 143\Assignment 1\MarsLander\obj\x86\Debug\MarsLander.exe
+C:\Users\Phong Nguyen\Desktop\BIT 143\Assignment 1\MarsLander\obj\x86\Debug\MarsLander.pdb
+C:\Users\Phong Nguyen\Desktop\BIT 143\Assignment 1\MarsLander\bin\Debug\MarsLander.exe
+C:\Users\Phong Nguyen\Desktop\BIT 143\Assignment 1\MarsLander\bin\Debug\MarsLander.pdb
+C:\Users\Phong Nguyen\Desktop\BIT 143\Assignment 1\MarsLander\obj\x86\Debug\MarsLander.csprojResolveAssemblyReference.cache
+C:\Users\Phong Nguyen\Desktop\BIT 143\Assignment 1.1\MarsLander\obj\x86\Debug\MarsLander.exe
+C:\Users\Phong Nguyen\Desktop\BIT 143\Assignment 1.1\MarsLander\obj\x86\Debug\MarsLander.pdb
+C:\Users\Phong Nguyen\Desktop\BIT 143\Assignment 1.1\MarsLander\bin\Debug\MarsLander.exe
+C:\Users\Phong Nguyen\Desktop\BIT 143\Assignment 1.1\MarsLander\bin\Debug\MarsLander.pdb
+C:\Users\Phong Nguyen\Desktop\BIT 143\Assignment 1.1\MarsLander\obj\x86\Debug\MarsLander.csprojResolveAssemblyReference.cache
+C:\Users\Phong Nguyen\Desktop\BIT 143\Assignment 1.2\MarsLander\obj\x86\Debug\MarsLander.exe
+C:\Users\Phong Nguyen\Desktop\BIT 143\Assignment 1.2\MarsLander\obj\x86\Debug\MarsLander.pdb
+C:\Users\Phong Nguyen\Desktop\BIT 143\Assignment 1.2\MarsLander\bin\Debug\MarsLander.exe
+C:\Users\Phong Nguyen\Desktop\BIT 143\Assignment 1.2\MarsLander\bin\Debug\MarsLander.pdb
+C:\Users\Phong Nguyen\Desktop\BIT 143\Assignment 1.2\MarsLander\obj\x86\Debug\MarsLander.csprojResolveAssemblyReference.cache
