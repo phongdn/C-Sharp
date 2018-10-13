@@ -1,0 +1,17 @@
+C:\Users\Phong\Desktop\Console_StarterProject\Console_StarterProject\bin\Debug\Helpdesk.exe
+C:\Users\Phong\Desktop\Console_StarterProject\Console_StarterProject\bin\Debug\Helpdesk.pdb
+C:\Users\Phong\Desktop\Console_StarterProject\Console_StarterProject\obj\Debug\Helpdesk.csprojResolveAssemblyReference.cache
+C:\Users\Phong\Desktop\Console_StarterProject\Console_StarterProject\obj\Debug\Helpdesk.exe
+C:\Users\Phong\Desktop\Console_StarterProject\Console_StarterProject\obj\Debug\Helpdesk.pdb
+C:\Users\Phong Nguyen\Desktop\BIT 143\Assignment 2\Console_StarterProject\obj\Debug\Helpdesk.exe
+C:\Users\Phong Nguyen\Desktop\BIT 143\Assignment 2\Console_StarterProject\obj\Debug\Helpdesk.pdb
+C:\Users\Phong Nguyen\Desktop\BIT 143\Assignment 2\Console_StarterProject\bin\Debug\Helpdesk.exe
+C:\Users\Phong Nguyen\Desktop\BIT 143\Assignment 2\Console_StarterProject\bin\Debug\Helpdesk.pdb
+C:\Users\Phong Nguyen\Desktop\BIT 143\Assignment 2\Console_StarterProject\obj\Debug\Helpdesk.csprojResolveAssemblyReference.cache
+C:\Users\Phong Nguyen\Desktop\Assignment 2\Console_StarterProject\obj\Debug\Helpdesk.exe
+C:\Users\Phong Nguyen\Desktop\Assignment 2\Console_StarterProject\obj\Debug\Helpdesk.pdb
+C:\Users\Phong Nguyen\Desktop\Assignment 2\Console_StarterProject\bin\Debug\Helpdesk.exe
+C:\Users\Phong Nguyen\Desktop\Assignment 2\Console_StarterProject\bin\Debug\Helpdesk.pdb
+C:\Users\Phong Nguyen\Desktop\Assignment 2\Console_StarterProject\obj\Debug\Helpdesk.csprojResolveAssemblyReference.cache
+C:\Users\Phong Nguyen\Desktop\BIT 143\Assignment 2.1\Assignment 2.1\Console_StarterProject\obj\Debug\Helpdesk.exe
+C:\Users\Phong Nguyen\Desktop\BIT 143\Assignment 2.1\Assignment 2.1\Console_StarterProject\obj\Debug\Helpdesk.pdb
